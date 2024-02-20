@@ -1,2 +1,4 @@
 testes tes 2
 uji coba  2
+Baris yang baru pertama pada file2.txt
+Baris yang baru kedua pada file2.txt
