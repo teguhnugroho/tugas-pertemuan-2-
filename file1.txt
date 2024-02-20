@@ -1,2 +1,5 @@
 testes tes 1
 uji coba 1
+
+Ini adalah baris baru pertama pada file1.txt
+Ini adalah baris baru kedua pada file1.txt
